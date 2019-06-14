@@ -1,4 +1,4 @@
-/*------------------------------------------------------------------
+    /*------------------------------------------------------------------
     Version: 1.0
 -------------------------------------------------------------------*/
 
@@ -3521,6 +3521,129 @@ select.mobile-device {
     font-weight: 700;
     color: #333;
 }
+/*------------------------------------------------------------------
+    Galeries en bas de page
+-------------------------------------------------------------------*/
+.slider-bg-one1 {
+    background-image: url("uploads/3.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.slider-bg-two2 {
+    background-image: url("uploads/4.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
+.slider-bg-three51 {
+    background-image: url("uploads/51.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-6 {
+    background-image: url("uploads/6.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-7 {
+    background-image: url("uploads/7.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-8 {
+    background-image: url("uploads/8.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-11 {
+    background-image: url("uploads/11.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-12 {
+    background-image: url("uploads/212.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-13 {
+    background-image: url("uploads/13.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-14 {
+    background-image: url("uploads/14.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-15 {
+    background-image: url("uploads/15.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-16 {
+    background-image: url("uploads/16.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-17 {
+    background-image: url("uploads/17.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-18 {
+    background-image: url("uploads/18.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-19 {
+    background-image: url("uploads/19.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-20 {
+    background-image: url("uploads/20.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-21 {
+    background-image: url("uploads/21.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-22 {
+    background-image: url("uploads/22.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-23 {
+    background-image: url("uploads/23.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.slider-bg-25 {
+    background-image: url("uploads/25.jpeg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 
